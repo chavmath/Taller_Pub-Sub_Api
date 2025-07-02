@@ -42,7 +42,7 @@ Taller_Pub-Sub_Api/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL-del-repositorio>
+git clone <https://github.com/chavmath/Taller_Pub-Sub_Api>
 cd Taller_Pub-Sub_Api
 ```
 
